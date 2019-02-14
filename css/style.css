@@ -1,0 +1,163 @@
+.admintitle
+{
+    background-color: brown;
+    color: #ffffff;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 140px;
+    line-height: 140px;
+}
+
+.dashboard
+{
+    background-color: #1DEFEF;
+    color: #000000;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 140px;
+    font-size: 20px;
+
+}
+
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.from form{
+    margin-left: 10%;
+}
+
+
+.adminll {
+    margin-top: 10%;
+    margin-left: 10%;
+    color: #e3e3e3;
+}
+
+
+
+.wrap{
+    width:30%;
+    height:350px;
+    background:white;
+    text-align:center;
+    top:25%;
+    left:35%;
+    position:absolute;
+    box-shadow:0 0 40px 0 rgba(0, 0, 0, 0.2), 0 10px 10px 0 rgba(0, 0, 0, 0.24);;
+}
+
+
+
+
+.wrap .head h1{
+    margin-top:1px;
+    text-align:center;
+    font-family: Laksaman;
+    font-weight: bolder;
+    color:green;
+    font-size:25px;
+
+}
+.wrap .form{
+    margin:5%;
+
+}
+
+.wrap .form p{
+    font-size:16px;
+    font-weight:bold;
+    margin-top:10px;
+    margin-bottom:3px;
+    color:#000000;
+    margin-left: 1px;
+}
+.wrap .form input{
+    width:90%;
+}
+
+.wrap .form input[type="text"],input[type="password"] {
+    color:black;
+}
+
+.wrap .form input[type="submit"]{
+    color: black;
+    width: 30%;
+    margin-top: 10px;
+}
+
+.wrap .form input[type="submit"]:hover{
+    color:darkred;
+}
+
+.wrap .sigin a{
+    text-decoration: none;
+    color: darkslategray;
+}
+
+.wrap .sigin a:hover{
+    color:crimson;
+}
+
+
+.usr .head{
+    margin: auto;
+    width:50%;
+    margin-top:-1.5%;
+    font-size:17px;
+    background-color:rgba(0,51,51,0.6);
+}
+
+.usr .head h3{
+    color: #e3e3e3;
+    font-family: "Droid Sans Mono";
+    text-align: center;
+}
+
+.usr .form table tr{
+    height:35px;
+    margin-top: 20px;
+}
+
+.usr .form table tr th{
+    font-size: 16px;
+    color:black;
+
+}
+
+.usr .form table tr td {
+    font-size: 14px;
+    color:blue;
+    text-align: center;
+}
+
+.usr .form table tr td  label{
+    color: blueviolet;
+
+}
+.usr .edit button{
+    margin-top: 5px;
+}
+
+.usr.form table{
+    margin: auto;
+}
+.usr .form table tr td img{
+    margin-left:1.5%;
+}
